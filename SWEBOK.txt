@@ -14,3 +14,5 @@ principios de calidad:
 	- 
 
 Ley anti tramite 
+
+consultar el proceso de ingeniería de requisitos de Pr Amador Duran
