@@ -11,7 +11,8 @@ IEE
 principios de calidad:
 
 	- planear todo lo que se hace 
-	-
+	- hacer de acuerdo a lo planeado
+	- chequear lo planeado
 
 Ley anti tramite 
 
